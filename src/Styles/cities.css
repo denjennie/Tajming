@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Praise&display=swap");
+
+#city-container {
+  background-image: url("/src/images/sky4.jpg");
+  background-attachment: unset;
+  background-position: center;
+  min-height: calc(100vh - 132px);
+}
+#city-row {
+  background-color: rgba(238, 238, 238, 0.4);
+  max-width: 75%;
+  color: #fff;
+  margin: auto;
+  min-height: inherit;
+}
+
+#city-col {
+  background-color: #0b2955;
+  margin: auto;
+  max-height: 75%;
+  max-width: 75%;
+  padding-bottom: 18%;
+  text-align: center;
+}
+#city-col h1 {
+  font-size: 100px;
+  margin-top: 40px;
+  margin-bottom: 0;
+  font-family: "praise", cursive;
+}
+#city-col h2 {
+  font-size: 30px;
+}
+#city-col p {
+  font-family: "Readex Pro", sans-serif;
+}
+
+@media screen and (max-width: 600px) {
+  #city-row {
+    max-width: 100%;
+    background-color: initial;
+  }
+  #city-col {
+    max-width: 100%;
+    background-color: initial;
+  }
+  #city-col h1,
+  h2,
+  p {
+    font-size-adjust: unset;
+  }
+}
+@media screen and (max-width: 992px) {
+  #city-row {
+    max-width: 75%;
+    background-color: initial;
+  }
+  #city-col {
+    max-width: 75%;
+    background-color: initial;
+  }
+}

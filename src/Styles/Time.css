@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Russo+One&display=swap");
+
+.clock-box {
+  margin-bottom: 4%;
+  text-align: center;
+  background-color: transparent;
+}
+
+.small-clock {
+  padding-top: 1%;
+  font-family: "Russo One";
+  background-color: #0b2955;
+  border-radius: 4%;
+  margin: 1%;
+}
+
+.small-clock:hover {
+  transform: scale(1.1);
+}
+.small-clock a {
+  text-decoration: none;
+  color: white;
+}
+.small-clock a:hover {
+  text-decoration: none;
+  color: aquamarine;
+}

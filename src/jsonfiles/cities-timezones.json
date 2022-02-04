@@ -1,0 +1,161 @@
+[
+  {
+    "city": "London",
+    "timezone": "Europe/London",
+    "img": "src/images/london.jpg",
+
+    "info": "London är huvudstad i Storbritannien och i riksdelen England. Staden grundades under namnet Londinium som huvudstad i den romerska provinsen Britannia, för vilken den också utgjorde hamnstad vid floden Themsen."
+  },
+  {
+    "city": "New York",
+    "timezone": "America/New_York",
+    "img": "src/images/newyork.jpg",
+
+    "info": "New York är USA:s mest folkrika stad med 8,2 miljoner invånare enligt den senaste folkräkningen och 19,6 miljoner invånare i storstadsområdet. New York är ansedd som en världsstad med ett starkt globalt inflytande inom ekonomi, massmedia, politik, utbildning, underhållning och mode."
+  },
+  {
+    "city": "Paris",
+    "timezone": "Europe/Paris",
+    "img": "src/images/paris.jpg",
+    "info": "I det femte arrondissementet, även kallat Latinkvarteren, ligger universitetet Sorbonne och välbesökta studentkaféer. Det är även känt för bokaffärerna, bland annat den välkända Shakespeare and Company. Familjer brukar uppskatta den botaniska trädgården Jardin des Plantes och det naturhistoriska museet Muséum national d'histoire naturelle. I det ståtliga mausoleet Panthéon ligger kända namn som Voltaire och Marie Curie begravda."
+  },
+  {
+    "city": "Tokyo",
+    "timezone": "Asia/Tokyo",
+    "img": "src/images/tokyo.jpg",
+    "info": "Namnet Tokyo betyder bokstavligen östra huvudstaden. I Tokyo finns Japans parlament och kejsarpalatset där den kejserliga familjen bor. Staden är även hemvist för landets samtliga största medieföretag med tidningar och TV-kanaler men även internationellt aktiva japanska företag som Sony, Mitsubishi och Honda."
+  },
+  {
+    "city": "Sydney",
+    "timezone": "Australia/Sydney",
+    "img": "src/images/sydney.jpg",
+    "info": "Sydney är huvudstaden i delstaten New South Wales och den mest folkrika staden i Australien. Den ligger på Australiens sydöstra kust vid Tasmanhavet. I juni 2010 hade storstadsområdet en ungefärlig befolkning på 4,6 miljoner invånare."
+  },
+  {
+    "city": "Honolulu",
+    "timezone": "Pacific/Honolulu",
+    "img": "src/images/honolulu.jpg",
+    "info": "Honolulu är huvudstad och största stad i den amerikanska delstaten och ögruppen Hawaii, belägen på ön Oahu i Stilla havet. Staden har en yta av 222 kvadratkilometer. Befolkningen uppgår till 909 863 invånare. Honolulu betyder skyddad vik eller skyddad plats."
+  },
+  {
+    "city": "Los Angeles",
+    "timezone": "America/Los_Angeles",
+    "img": "src/images/losangeles.jpg",
+    "info": "Los Angeles är den största staden i delstaten Kalifornien och den näst största i USA. Los Angeles ligger i södra Kalifornien i sydvästra delen av USA och är huvudort i Los Angeles County. "
+  },
+  {
+    "city": "Chihuahua",
+    "timezone": "America/Chihuahua",
+    "img": "src/images/chihuahua.jpg",
+    "info": "Chihuahua är en delstat i norra Mexiko. Delstaten är till ytan landets största och har cirka 3,6 miljoner invånare. Administrativ huvudort är staden Chihuahua, medan den största staden är Juárez. Andra stora och viktiga städer är Cuauhtémoc, Delicias, Hidalgo del Parral och Nuevo Casas Grandes."
+  },
+  {
+    "city": "Bogotá",
+    "timezone": "America/Bogota",
+    "img": "src/images/bogota.jpg",
+    "info": "Bogotá, officiellt Bogotá, D.C., tidigare kallad Santa Fe de Bogotá, är Colombias huvudstad, såväl som den folkrikaste staden i landet, med 7 139 232 invånare. Bogotá och dess storstadsområde, vilket inkluderar kommuner som Chía, Cota, Soacha, Cajicá och La Calera, hade 2008 en beräknad befolkning på 8 368 419."
+  },
+  {
+    "city": "Detroit",
+    "timezone": "America/Detroit",
+    "img": "src/images/detroit.jpg",
+    "info": "Detroit är den största staden i den amerikanska delstaten Michigan. Staden har en omfattande verkstadsindustri och är centrum för den amerikanska bilindustrin. Genom läget vid Stora sjöarna har staden även utvecklats till en av USA:s största inlandshamnar och den har förbindelse med Atlanten via Saint Lawrenceleden. "
+  },
+  {
+    "city": "Jerusalem",
+    "timezone": "Asia/Jerusalem",
+    "img": "src/images/jerusalem.jpg",
+    "info": "Jerusalem är en stad på Judéens högland mellan Medelhavet och Döda havet med cirka 900 000 invånare. Jerusalem är Israels administrativa centrum och de facto-huvudstad. Internationellt stöds Israels anspråk på staden endast av ett fåtal länder, bland annat USA. Även Palestina gör anspråk på staden."
+  },
+  {
+    "city": "Lissabon",
+    "timezone": "Europe/Lisbon",
+    "img": "src/images/lissabon.jpg",
+    "info": "Lissabon, portugisiska Lisboa, är huvudstad i Portugal. Lissabon har ungefär en halv miljon invånare i den centrala kommunen, och 2,8 miljoner invånare i hela storstadsområdet. Lissabon är också centralort i Lissabons kommun och residensstad i Lissabons distrikt."
+  },
+  {
+    "city": "Malmö",
+    "timezone": "Europe/Stockholm",
+    "img": "src/images/malmo.jpg",
+    "info": "Malmö är Sveriges tredje största tätort och Nordens sjätte största med 316 588 invånare i tätorten samt även länet Skånes residensstad. Malmö, som är en kommunöverskridande tätort, är huvudsakligen belägen i Malmö kommun i Skåne län, men även innefattande Arlöv i Burlövs kommun och en mindre del i Lomma kommun."
+  },
+  {
+    "city": "Rom",
+    "timezone": "Europe/Rome",
+    "img": "src/images/rom.jpg",
+    "info": "Rom är huvudstad i Italien sedan 1871 och var även huvudstad i det romerska riket under antiken. Rom är huvudstad i regionen Lazio och huvudort och en kommun i storstadsregionen Rom, innan 2015 provinsen Rom. I Rom ligger även Vatikanstaten, centrum för Romersk-katolska kyrkan."
+  },
+  {
+    "city": "Amsterdam",
+    "timezone": "Europe/Amsterdam",
+    "img": "src/images/amsterdam.jpg",
+
+    "info": "Amsterdam är Nederländernas största stad, den officiella huvudstaden, och ligger i provinsen Noord-Holland. Staden hade våren 2013 801 542 invånare. Ungefär 50 procent av befolkningen har utländsk bakgrund. Enligt 2008 års Cost of Living Survey ligger Amsterdam på 25:e plats när det gäller dyraste städer att bo i."
+  },
+  {
+    "city": "Prag",
+    "timezone": "Europe/Prague",
+    "img": "src/images/prag.jpg",
+    "info": "Prag är huvudstad och största stad i Tjeckien samt är belägen vid floden Moldau. Per 1 januari 2016 hade staden 1 267 449 invånare. Prags universitet, Karlsuniversitetet, grundades 1348 av kung Karl IV och är det äldsta universitetet i Centraleuropa norr om Alperna och öster om Rhen."
+  },
+  {
+    "city": "Moskva",
+    "timezone": "Europe/Moscow",
+    "img": "src/images/moskva.jpg",
+    "info": "Moskva är Rysslands huvudstad och största stad, belägen vid Moskvafloden i den centrala delen av europeiska Ryssland. Det är även Europas folkrikaste stad med 12,2 miljoner invånare inom det federala stadsområdet. Hela storstadsområdet omfattar ytterligare två till fyra miljoner invånare, beroende på definition."
+  },
+  {
+    "city": "Dubai",
+    "timezone": "Asia/Dubai",
+    "img": "src/images/dubai.jpg",
+    "info": "Dubai är den mest folkrika staden i Förenade Arabemiraten och huvudstaden i Emiratet Dubai. Staden grundades på 1700-talet som en liten fiskeby och växte snabbt i början av 2000-talet till en kosmopolitisk metropol med fokus på turism och gästfrihet. Dubai är ett av världens mest populära turistmål."
+  },
+  {
+    "city": "New Delhi",
+    "timezone": "Asia/Kolkata",
+    "img": "src/images/newdelhi.jpg",
+    "info": "New Delhi är Indiens huvudstad och den administrativa huvudorten för unionsterritoriet National Capital Territory of Delhi. Trots sin betydelse är det en relativt liten stad, i direkt anslutning till den betydligt större staden Delhi. New Delhi är även huvudorten för ett distrikt med samma namn som staden."
+  },
+  {
+    "city": "Bangkok",
+    "timezone": "Asia/Bangkok",
+    "img": "src/images/bangkok.jpg",
+    "info": "Bangkok är Thailands huvudstad. Bangkok är en självständig kommun på ungefär samma administrativa nivå som landets provinser. Staden hade cirka 8,3 miljoner invånare vid folkräkningen 2010, med cirka 14,6 miljoner invånare i hela storstadsområdet."
+  },
+  {
+    "city": "Jakarta",
+    "timezone": "Asia/Jakarta",
+    "img": "src/images/jakarta.jpg",
+    "info": "Jakarta är huvudstaden i Indonesien och är belägen på ön Java. Staden har cirka 10,5 miljoner invånare. Storstadsregionen, som benämns Jabodetabekjur, är en av världens folkrikaste och hade 28,6 miljoner invånare vid folkräkningen 2010."
+  },
+  {
+    "city": "Hongkong",
+    "timezone": "Asia/Hong_Kong",
+    "img": "src/images/hongkong.jpg",
+    "info": "Hongkong är en särskild administrativ region i södra Kina, söder om provinsen Guangdong. Hongkong har en marknadsekonomi som är uppbyggd kring internationell handel och är idag ett av världens ledande finansiella centra."
+  },
+  {
+    "city": "Shanghai",
+    "timezone": "Asia/Shanghai",
+    "img": "src/images/shanghai.jpg",
+    "info": "Shanghai är en megastad i Folkrepubliken Kina, belägen vid Yangtzes delta mot Östkinesiska havet. Shanghai är ett av de fyra storstadsområdena i Kina som är ställda direkt under landets centrala administration i huvudstaden Peking. Shanghai är en av Kinas och världens absolut största städer."
+  },
+  {
+    "city": "Brisbane",
+    "timezone": "Australia/Brisbane",
+    "img": "src/images/brisbane.jpg",
+    "info": "Brisbane är en stad i Australien med 1,9 miljoner invånare. Den är huvudstad i delstaten Queensland samt den tredje största staden i Australien och största stad i Queensland. Brisbane är byggd utefter Brisbane River, som slingrar sig igenom staden och korsas av flera broar."
+  },
+  {
+    "city": "Fiji",
+    "timezone": "Pacific/Fiji",
+    "img": "src/images/fiji.jpg",
+    "info": "Fiji är en östat i Melanesien i södra Stilla havet omkring 2 000 km nordost om Nya Zeelands nordö. Dess närmsta grannar är Vanuatu i väst, Frankrikes Nya Kaledonien i sydväst, Nya Zeelands Kermadec i sydost, Tonga i öst, Samoa och Frankrikes Wallis- och Futunaöarna till nordost och Tuvalu i norr."
+  },
+  {
+    "city": "Auckland",
+    "timezone": "Pacific/Auckland",
+    "img": "src/images/auckland.jpg",
+    "info": "Auckland är Nya Zeelands största storstadsområde med 1,4 miljoner invånare 2013, det motsvarar cirka 33,4% av hela Nya Zeelands befolkning. På maori heter staden Tāmaki Makaurau eller Ākarana. Den ligger 37 grader syd om ekvatorn på den nordvästra delen av Nordön."
+  }
+]

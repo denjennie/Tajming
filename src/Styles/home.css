@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200&display=swap");
+
+#geo {
+  max-width: 100%;
+  margin: 0 auto;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#settings {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  padding-top: 1%;
+}
+
+#nightmode-btn {
+  width: fit-content;
+  height: fit-content;
+  padding: 0;
+  background-color: rgb(168, 168, 168);
+  border-radius: 5px;
+  border: none;
+  /* margin-right: 0;
+  float: right;
+  margin-top: 1%; */
+}
+
+#nightmode-btn img {
+  filter: invert(100%);
+}
+
+.geo-container .list-group-item {
+  display: inline-block;
+}
+
+#geo .geo-container .list-group p {
+  padding: 5%;
+  font-size: 4vh;
+  color: white;
+  letter-spacing: 5px;
+  font-family: "Readex Pro", sans-serif;
+}
+
+.background {
+  background-image: url("/src/images/sky4.jpg");
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+.container {
+  background-color: rgba(238, 238, 238, 0.4);
+  margin-top: 1.5%;
+  border-radius: 5px;
+  margin-bottom: 1.5%;
+  padding-bottom: 0.2%;
+}
+
+.toggle h6 {
+  margin-right: 10px;
+  color: white;
+  font-family: "Readex Pro";
+}

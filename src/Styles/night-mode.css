@@ -1,0 +1,17 @@
+    .background {
+      background-image: url(/src/images/space.jpg);
+      background-size: cover;
+  }
+
+  #nightmode-btn{
+    background-color: white;
+  }
+  #nightmode-btn img{
+      filter: initial;
+  }
+  .container{
+      background-color: rgba(100, 100, 100, 0.4);
+  }
+  #navbarBackground{
+    background-color: rgb(139, 139, 139);
+  }

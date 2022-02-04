@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Alfa+Slab+One&family=Architects+Daughter&family=EB+Garamond&family=Eczar&family=Fira+Sans+Extra+Condensed&family=Gochi+Hand&family=Indie+Flower&family=Lobster&family=M+PLUS+Rounded+1c&family=Mochiy+Pop+P+One&family=Neucha&family=Oooh+Baby&family=Orbitron&family=Parisienne&family=Permanent+Marker&family=Playball&family=Sedgwick+Ave&family=Space+Mono&family=Tangerine&family=Yeseva+One&display=swap");
+
+#cityList h2 {
+  text-decoration: none;
+  color: white;
+  margin: 3%;
+}
+
+#cityList a {
+  text-decoration: none;
+}
+
+#cityList h2:hover {
+  color: aquamarine;
+  transform: scale(1.25);
+}
+
+#cityList .col {
+  border-radius: 4%;
+  margin-top: 3%;
+  margin-left: 1%;
+  margin-right: 1%;
+  padding-right: 3%;
+  padding-left: 1%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  text-align: center;
+  background-color: #0b2955;
+}
+
+#cityList .row {
+  margin: 5%;
+}
+
+#cityList {
+  background-color: transparent;
+}

@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Readex+Pro:wght@200&display=swap");
+#addCol p{
+  font-size: 35px;
+  color: white;
+  font-family: "Readex Pro", sans-serif;
+}
+@media screen and (max-width: 800px) {
+  #addCol p{
+    font-size: 2vh;
+  }
+  }
+.vertical-center{
+  display: flex;
+  align-items: center;
+}
+#addContainer{
+  background: none;
+}
+#addCol{
+  background-color:  #0b2955;
+  border-radius: 25px;
+  justify-content: center;
+}
+#addCol a:hover {
+  text-decoration:underline;
+  color: rgb(57, 194, 153); 
+}
+#addCol a{
+  color: rgb(0, 255, 179);
+  text-decoration: none;
+}
+#addRow{
+  height: 40vh;
+  margin-top: 5vh;
+}
+#addInfo{
+  text-align: center;
+}

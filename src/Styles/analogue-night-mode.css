@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@500&display=swap');
+
+#analogue-clock{
+    width: 26.25vw;
+    height: 26.25vw;
+    position: relative;
+    border-radius: 50%;
+    margin: auto;
+    border: 0.2vw solid rgba(31,255,15, 0.5);
+    box-shadow: 0 2px 30px rgba(31,255,15, 0.5);
+    
+}
+
+#hour-hand, #minute-hand, #second-hand{
+    background-color: rgba(31,255,15,0.6);
+    box-shadow: 0 0 15px 4px rgba(31,255,15, 0.5);
+    position: absolute;
+    transform-origin: bottom;
+    border-radius: 15px;
+}
+
+#hour-hand{
+    width: 2%;
+    height: 20%;
+    top: 50%;
+    right: 0;
+    left: 0;
+    margin:auto;
+    margin-top: -20%;/* full height to center bottom vertically*/
+}
+
+#second-hand{
+    width: 1%;
+    height: 33%;
+    top: 50%;
+    right: 0;
+    left: 0;
+    margin:auto;
+    margin-top: -33%;
+}
+
+#minute-hand{
+    top: 50%;
+    right: 0;
+    left: 0;
+    margin:auto;
+    margin-top: -28.5%; 
+    width: 1.5%;
+    height: 28.5%
+}
+
+#dot{
+    z-index: 1; /* remove after testing? */
+    box-shadow: 0 0 15px 8px rgba(31,255,15, 0.5);
+    filter:brightness(80%);
+    position:absolute;
+    width: 4.5%;
+    height: 4.5%;
+    border-radius: 50%;
+    top: 50%;
+    right: 0;
+    left: 0;
+    margin:auto;
+    margin-top: -2.25%; /* half height to center vertically */
+    background-image: radial-gradient(rgba(31,255,15), rgb(131, 255, 94));
+}
+
+.dot{
+    background-color: rgba(31,255,15, 0.5);
+    position: absolute;
+    width: 0.8%;
+    height: 3.5%;
+}
+.s-time{
+    position: absolute;
+    width: fit-content;
+    margin: 0;
+    font-size: 1.875vw;
+    color: rgba(31,255,15, 0.9);
+    text-shadow: 0 0 25px rgba(31,255,15, 1);
+    font-family: 'Spartan', sans-serif;
+}
+#dot-1{
+    transform: rotate(30deg);
+    top: 6.66%;
+    right: 25.59%;
+}
+#dot-2{
+    transform: rotate(60deg);
+    top: 24.3%;
+    right: 8.15%;
+}
+#dot-3{
+    width: 1.5%;
+    height: 5%;
+    transform: rotate(90deg);
+    right: 1.755%;
+    top: 47.6%;
+}
+#dot-4{
+    transform: rotate(120deg);
+    top: 72.2%;
+    right: 8.1%;
+}
+#dot-5{
+    transform: rotate(150deg);
+    top: 89.7%;
+    right: 25.7%;
+}
+#dot-6{
+    width: 1.5%;
+    height: 5%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#dot-7{
+    transform: rotate(210deg);
+    top: 89.7%;
+    left: 25.7%;
+}
+#dot-8{
+    transform: rotate(240deg);
+    top: 72.2%;
+    left: 8.1%;
+}
+#dot-9{
+    width: 1.5%;
+    height: 5%;
+    transform: rotate(90deg);
+    left: 1.8%;
+    top: 47.6%;
+}
+#dot-10{
+    transform: rotate(300deg);
+    top: 24.3%;
+    left: 8.15%;
+}
+#dot-11{
+    transform: rotate(330deg);
+    top: 6.66%;
+    right: 73.61%;
+}
+#dot-12{
+    width: 1.5%;
+    height: 5%;
+    top: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#s1{
+    top: 11.5%;
+    right: 28.5%;
+}
+#s2{
+    top: 25.5%;
+    right: 12.5%;
+}
+#s3{
+    top: 46.5%;
+    right: 6.2%;
+}
+#s4{
+    top: 66.8%;
+    right: 12.5%;
+}
+#s5{
+    top: 81.5%;
+    right: 27.5%;
+}
+#s6{
+    bottom: 5%;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+#s7{
+    top: 81.5%;
+    left: 27.5%;
+}
+#s8{
+    top: 66.8%;
+    right: 82.5%;
+}
+#s9{
+    top: 46.5%;
+    left: 6.2%;
+}
+#s10{
+    top: 25.5%;
+    right: 79%;
+}
+#s11{
+    top: 11%;
+    right: 67%;
+}
+#s12{
+    top: 6.5%;
+    right: 0;
+    left: 0;
+    margin: auto;
+}
+
+#testbox{
+    background-image: url("./globe.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    position: relative;
+    margin: auto;
+}
+
+/* remove after testing */
+#v-line{
+    background-color: rgba(31,255,15);
+    width: 0.2%;
+    height: 100%;
+    margin: auto;
+    transform: rotate(150deg);
+}
+
+#h-line{
+    position: absolute;
+    background-color: rgba(31,255,15);
+    width: 100%;
+    height: 0.2%;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    margin: auto;
+}

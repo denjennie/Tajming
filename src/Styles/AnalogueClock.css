@@ -1,0 +1,145 @@
+@import url("https://fonts.googleapis.com/css2?family=Qwitcher+Grypen:wght@400;700&Russo+One@700&display=swap");
+
+.analog_clock {
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+  background-color: #0b2955;
+  border: 1px solid aquamarine;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  box-shadow: 0 2px 30px rgba(0, 0, 0, 1);
+  font-size: 24px;
+  color: #444;
+  text-align: center;
+}
+
+.analog_clock::after {
+  background: white;
+  content: "";
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  position: absolute;
+  z-index: 2;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 2px solid blue;
+}
+
+.hour_hand {
+  position: absolute;
+  width: 6px;
+  height: 85px;
+  border-radius: 50%;
+  background: aquamarine;
+  border: 3px solid white;
+  top: 21%;
+  left: 49%;
+  transform-origin: bottom;
+}
+
+.min_hand {
+  position: absolute;
+  width: 5px;
+  height: 110px;
+  border-radius: 50%;
+  background: aquamarine;
+  border: 3px solid white;
+  top: 13%;
+  left: 49%;
+  transform-origin: bottom;
+}
+
+.sec_hand {
+  position: absolute;
+  width: 3px;
+  height: 118px;
+  border-radius: 50%;
+  background: red;
+  top: 10.5%;
+  left: 50%;
+  transform-origin: bottom;
+}
+
+.analog_clock span {
+  color: white;
+  position: absolute;
+  font-family: "Russo One";
+}
+
+.twelve {
+  top: 3%;
+  left: 46%;
+}
+
+.one {
+  top: 10%;
+  right: 25%;
+}
+
+.two {
+  top: 25%;
+  right: 10%;
+}
+
+.three {
+  right: 3%;
+  top: 46%;
+}
+
+.four {
+  right: 10%;
+  top: 67%;
+}
+
+.five {
+  right: 25%;
+  top: 80%;
+}
+
+.six {
+  bottom: 3%;
+  left: 49%;
+}
+
+.seven {
+  left: 25%;
+  top: 82%;
+}
+
+.eight {
+  left: 10%;
+  top: 67%;
+}
+
+.nine {
+  left: 3%;
+  top: 46%;
+}
+
+.ten {
+  top: 25%;
+  left: 10%;
+}
+
+.eleven {
+  top: 10%;
+  left: 26%;
+}
+
+.logo {
+  color: white;
+  font-family: "Qwitcher Grypen";
+  font-weight: 700;
+  font-size: 150%;
+  margin-top: 25%;
+  left: 37%;
+}
+
+.clockWrapper {
+  height: 350px;
+}
